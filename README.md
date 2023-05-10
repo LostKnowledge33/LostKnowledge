@@ -9,7 +9,7 @@ HackerRank <br>
 Bronze level <br>
 171 points <br>
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlzamon123)](https://solved.ac/rlzamon123/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlzamon123)](https://solved.ac/rlzamon123/)-->
 <hr>
 <br>
 STACK <br>
