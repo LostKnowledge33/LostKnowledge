@@ -1,6 +1,13 @@
 # LostKnowledge
-
-프로그래머스 \n
-순위 29,570위 \n
-점수 1,269점 \n
-해결한 문제 72개 \n
+<br>
+프로그래머스 <br>
+순위 29,570위 <br>
+점수 1,269점 <br>
+해결한 문제 72개 <br>
+<br>
+<br>
+STACK <br>
+C++, C# <br>
+Unreal Engine, Unity <br>
+MySQL, MS-SQL, postgres <br>
+JSP, SpringFramework
