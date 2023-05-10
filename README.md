@@ -5,6 +5,10 @@
 점수 1,269점 <br>
 해결한 문제 72개 <br>
 <br>
+Hackerrank <br>
+Bronze level
+171 points <br>
+<br>
 <br>
 STACK <br>
 C++, C# <br>
