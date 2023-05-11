@@ -10,8 +10,7 @@ Bronze level <br>
 171 points <br>
 <br>
 <p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlzamon123)](https://solved.ac/rlzamon123)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlzamon123)](https://solved.ac/{rlzamon123})
 </p>
 <hr>
 <br>
