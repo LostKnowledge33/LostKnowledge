@@ -15,5 +15,5 @@ Bronze level <br>
 STACK <br>
 C++, C# <br>
 Unreal Engine, Unity <br>
-MySQL, MS-SQL, postgres <br>
+MySQL, MS-SQL, postgreSQL <br>
 JSP, SpringFramework
