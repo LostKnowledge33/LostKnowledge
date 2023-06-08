@@ -6,8 +6,8 @@
 해결한 문제 77개 <br>
 <br>
 HackerRank <br>
-Bronze level <br>
-171 points <br>
+Silver level <br>
+211 points <br>
 <br>
 
 <hr>
