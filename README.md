@@ -9,7 +9,6 @@ HackerRank <br>
 Silver level <br>
 211 points <br>
 <br>
-<iframe src="https://hackerrank-badge.herokuapp.com/LostKnowledge33?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 <hr>
 <br>
 STACK <br>
